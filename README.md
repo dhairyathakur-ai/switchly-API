@@ -1,2 +1,2 @@
 ﻿# switchly-API
-for making a Flag System, we are building API using HTTP methods.
+
